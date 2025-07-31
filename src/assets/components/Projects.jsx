@@ -36,7 +36,7 @@ function Projects() {
       logo: "/react.png",
       name: "ReactJS",
       desc: "A modern React portfolio website.",
-      link: "https://github.com/riteshkumar34/Portfolio"
+      link: "https://github.com/riteshkumar34/portfolio_"
     },
     {
       id: 7,
